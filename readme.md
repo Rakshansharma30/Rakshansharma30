@@ -66,8 +66,8 @@ Currently, I'm working on projects involving:
 
 - 💼 [LinkedIn](www.linkedin.com/in/rakshan-sharma-755813264)
 - 📧 Email: rakshansharma03@gmail.com
-- 🌐 Portfolio: [yourportfolio.com]([https://yourportfolio.com](https://rakshansharma30.github.io/Portfolio/))
-- 🧠 Resume: [Download Resume]((https://drive.google.com/file/d/121e4ithXcjIjLJdgZ9IX5Chr2iBOOqJ9/view?usp=sharing))
+- 🌐 Portfolio:([https://yourportfolio.com](https://rakshansharma30.github.io/Portfolio/))
+- 🧠 Resume: (https://drive.google.com/file/d/121e4ithXcjIjLJdgZ9IX5Chr2iBOOqJ9/view?usp=sharing)
 
 ---
 
